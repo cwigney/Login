@@ -17,7 +17,7 @@ public class Login {
         WebElement login = driver.findElement(By.name("login"));
 
         email.sendKeys("cwigney1995@gmail.com");
-        password.sendKeys("test1");
+        password.sendKeys("test11");
         login.click();
 
 
